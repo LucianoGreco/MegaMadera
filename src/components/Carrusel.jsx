@@ -12,6 +12,7 @@ const scroll = keyframes`
   }
 `;
 
+
 // Contenedor principal del carrusel
 const CarouselContainer = styled.div`
   overflow: hidden;
