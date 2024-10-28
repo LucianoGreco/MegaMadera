@@ -68,7 +68,7 @@ import Praga from "../assets/Melaminas/Praga.jpg";
 import RobleAmericanoNature from "../assets/Melaminas/RobleAmericanoNature.jpg";
 import RobleAmericanoSupermate from "../assets/Melaminas/RobleAmericanoSupermate.jpg";
 import RobleDakarNature from "../assets/Melaminas/RobleDakarNature.jpg";
-import RobleDakarWoodtext from "../assets/Melaminas/RobleDakarWoodtext.jpg";
+import RobleDakarWood from "../assets/Melaminas/RobleDakarWood.jpg";
 import RobleEscandinavo from "../assets/Melaminas/RobleEscandinavo.jpg";
 import Rojo from "../assets/Melaminas/Rojo.jpg";
 import Sahara from "../assets/Melaminas/Sahara.jpg";
@@ -443,7 +443,7 @@ export const Melaminas = [
     Medidas: "1830 x 2750 mm",
   },
   {
-    Imagen: RobleDakarWoodtext,
+    Imagen: RobleDakarWood,
     Color: "Roble Dakar Woodtext",
     Línea: "Étnica",
     Medidas: "1830 x 2750 mm",
